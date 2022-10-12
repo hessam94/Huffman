@@ -1,0 +1,16 @@
+﻿  Source.cpp
+e:\njit\courses\algorithm\project\huffman\huffman\huffman\source.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\njit\courses\algorithm\project\huffman\huffman\huffman\source.cpp(101): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+e:\njit\courses\algorithm\project\huffman\huffman\huffman\source.cpp(115): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\njit\courses\algorithm\project\huffman\huffman\huffman\source.cpp(128): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\njit\courses\algorithm\project\huffman\huffman\huffman\source.cpp(149): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\njit\courses\algorithm\project\huffman\huffman\huffman\source.cpp(150): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\njit\courses\algorithm\project\huffman\huffman\huffman\source.cpp(179): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(242): note: see declaration of 'freopen'
+e:\njit\courses\algorithm\project\huffman\huffman\huffman\source.cpp(197): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(242): note: see declaration of 'freopen'
+e:\njit\courses\algorithm\project\huffman\huffman\huffman\source.cpp(216): warning C4715: 'FindMainData': not all control paths return a value
+e:\njit\courses\algorithm\project\huffman\huffman\huffman\source.cpp(222): warning C4715: 'FindEnodedData': not all control paths return a value
+  Huffman.vcxproj -> E:\NJIT\Courses\Algorithm\Project\Huffman\Huffman\x64\Debug\Huffman.exe
+  Huffman.vcxproj -> E:\NJIT\Courses\Algorithm\Project\Huffman\Huffman\x64\Debug\Huffman.pdb (Partial PDB)
